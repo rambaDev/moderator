@@ -1,0 +1,10 @@
+*__pycache__*
+.idea/
+.vscode/
+venvzelya/
+config.py
+database.db
+moderator.bat
+readme.txt
+zametka.txt
+moderator.log
